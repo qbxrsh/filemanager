@@ -1,0 +1,1 @@
+WORKING_DIRECTORY = "C:\\Users\\robucks\\Documents\\uni\\praktikum\\LR6\\test"
